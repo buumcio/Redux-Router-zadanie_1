@@ -10,6 +10,7 @@ render(
     	<div>
         	<h1>Inicjalizacja projektu</h1>
         	<DevTools />
+        </div>
     </Provider>,
     document.getElementById('root')
 );
